@@ -3,7 +3,7 @@
 - I then took an intermediate-level course, and finally, an "advanced data structures and algorithms" class
 - In total, there are 19 projects (10 intermediate, 9 advanced) in the Python repository that illustrate my perseverance, growth and progress in programming :muscle:
 
-- I then took an Intro to Data Science course at De Anza College, where I fell in love wih extracting, analyzing and visualizing data.
+- I then took an Intro to Data Science course at De Anza College, where I fell in love wih extracting, analyzing and visualizing data :fire:
 
 - I didn't stop there. And I don't think if I ever will. This summer I took a Linux and SQL course. Thus getting me acquainted with OS, CLI, and databases.
  
