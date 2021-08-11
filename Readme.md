@@ -5,7 +5,7 @@
 
 - :chart_with_upwards_trend: I then took an Intro to Data Science course at De Anza College, where I fell in love wih extracting, analyzing and visualizing data :bar_chart: 
  
-- 👀 I’m very interested in software development, NLP, ML and data science
+- 👀 I’m very interested in software development, NLP, ML and data science :fire:
 - I have experience in Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn and NLTK
 - In addition to experience in SQL and Linux
 - 🌱 I’m currently learning PL/SQL, AWS and JavaScript
